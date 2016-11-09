@@ -1,0 +1,13 @@
+#
+# BEGIN mfp-gitignore rules
+# https://github.com/ibmmobiletipsntricks/mfp-gitignore
+# Command : git config --global core.excludesfile '~/.gitignore'
+
+
+/bin
+*.js
+*.html
+
+#
+# END mfp-gitignore rules
+#
